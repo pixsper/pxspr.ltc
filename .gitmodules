@@ -1,0 +1,6 @@
+[submodule "source/libltc"]
+	path = source/libltc
+	url = https://github.com/x42/libltc
+[submodule "source/max-sdk-base"]
+	path = source/max-sdk-base
+	url = https://github.com/Cycling74/max-sdk-base
